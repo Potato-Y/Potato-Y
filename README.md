@@ -1,6 +1,10 @@
-https://velog.io/@jong<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPotato-Y&count_bg=%238EB9DB&title_bg=%237586A6&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=180&animation=fadeIn&color=0:0B3861,100:A9A9F5&text=Potato-Y&fontColor=EFF2FB&fontSize=40&fontAlignY=35)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potato-Y)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potato-Y)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
